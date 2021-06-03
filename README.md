@@ -1,0 +1,2 @@
+# crug
+crug discord
